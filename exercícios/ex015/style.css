@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(133, 210, 255);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(28, 17, 88);
+    background-color: rgb(117, 85, 168);
+}
+
+h2 {
+    color: rgb(28, 17, 88);
+}
+
+p {
+    color: rgb(28, 17, 88);
+}

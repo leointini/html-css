@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(12, 13, 19);
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.jslogo {
+    width: 300px;
+    height: 300px;
+    margin-left: -2.5%;
+}
